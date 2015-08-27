@@ -1,0 +1,22 @@
+{
+  "name": "superbowl",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "~1.13.2",
+    "cookie-parser": "~1.3.5",
+    "debug": "~2.2.0",
+    "express": "~4.13.1",
+    "ibmbluemix": "^1.0.0-20150720-1718",
+    "ibmcloudcode": "^1.0.0-20150720-1718",
+    "ibmdata": "^1.0.0-20150720-1718",
+    "ibmpush": "^1.0.0-20150720-1718",
+    "jade": "~1.11.0",
+    "mongoose": "^4.1.2",
+    "morgan": "~1.6.1",
+    "serve-favicon": "~2.3.0"
+  }
+}
